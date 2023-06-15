@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color: #a164df;
+	height: 250px;
+	position: absolute;
+}
+.btn {
+  margin: 9px;
+  padding: 10px 20px;
+  background-color: #663399;
+  position: relative;
+  top: 35%;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
